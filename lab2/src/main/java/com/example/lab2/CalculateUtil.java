@@ -26,9 +26,13 @@ public abstract class CalculateUtil {
     }
 
     static double calcReliability(SequenceConnectionNode node){
-        return node.getNodes().stream().mapToDouble(CalculateUtil::calcReliability).reduce(1.0,(ac,v)->ac*v);
+        var result = node.getNodes().stream().mapToDouble(CalculateUtil::calcReliability).reduce(1.0,(ac,v)->ac*v);
+        log.info("For Sequence {}",result);
+        return result;
     }
     static double calcReliability(ParallelConnectionNode node){
-        return 1-node.getNodes().stream().mapToDouble(n->1-calcReliability(n)).reduce(1.0,(ac,v)->ac*v);
+        var result = 1-node.getNodes().stream().mapToDouble(n->1-calcReliability(n)).reduce(1.0,(ac,v)->ac*v);
+        log.info("For Parallel {}",result);
+        return result;
     }
 }
