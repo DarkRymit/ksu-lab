@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="412aa0e8-c275-41e2-8664-c3f3f2ea5ba3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/CalculateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/Lab1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/MathProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/input/ConnectionInputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/input/ElementInputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/input/GeneralInputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/input/SystemInputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/output/ConnectionOutputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/output/ElementOutputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/output/GeneralOutputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/java/com/example/lab1/model/output/SystemOutputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/src/test/java/com/example/lab1/Lab1ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/lab2/CalculateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/lab2/Lab2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/lab2/RenderUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/lab2/model/ParallelConnectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/lab2/model/SequenceConnectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/lab2/model/SimpleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/java/com/example/lab2/model/SystemNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/src/test/java/com/example/lab2/Lab2ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2F8DUDyEwFfKopb3jWvZSn4wcsI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/DarkRymit/IdeaProjects/ksu-lab/lab2",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Lab2Application">
+    <configuration name="Lab2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.lab2.Lab2Application" />
+      <module name="lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lab1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.lab1.Lab1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lab2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.lab2.Lab2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412aa0e8-c275-41e2-8664-c3f3f2ea5ba3" name="Changes" comment="" />
+      <created>1663864832854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663864832854</updated>
+      <workItem from="1663864834519" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
